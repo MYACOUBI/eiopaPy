@@ -16,5 +16,5 @@ pip install -r requirements.txt
 import eiopaPy
 
 # returns the risk-free rates with volatility adjustment:
-rfr=get_rfr_with_va(region = "FR", year = 2017:2018, month = 12)
+rfr=get_rfr_with_va(region = "FR", year = [2017,2018], month = 12)
 ```
