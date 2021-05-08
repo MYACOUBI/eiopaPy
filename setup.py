@@ -7,7 +7,7 @@ def readme():
 setup(
     name="eiopaPy",
     version="0.0.1",
-    description="This package provides data produced by EIOPA. Please note that the author of this package is not affiliated with EIOPA.",
+    description="This package is inspired from https://github.com/MehdiChelh/eiopaR",
     author="Mehdi Yacoubi",
     author_email="mehdiyacoubi95@gmail.com",
     long_description=readme(),
