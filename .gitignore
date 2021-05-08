@@ -1,0 +1,14 @@
+# dotenv
+.env
+
+# virtualenv
+.venv/
+venv/
+ENV/
+
+#cache
+__pycache__/
+.pytest_cache
+
+#vscode configuration
+.vscode
